@@ -15,3 +15,6 @@ print(' ')
 print("For emergency-fix on w3")
 
 print('')
+
+print("For github push")
+print('')
